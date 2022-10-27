@@ -1,0 +1,15 @@
+B:\proiecteVS\SolutionCodeCraftersByBT\bin\Debug\net6.0\SolutionCodeCraftersByBT.exe
+B:\proiecteVS\SolutionCodeCraftersByBT\bin\Debug\net6.0\SolutionCodeCraftersByBT.deps.json
+B:\proiecteVS\SolutionCodeCraftersByBT\bin\Debug\net6.0\SolutionCodeCraftersByBT.runtimeconfig.json
+B:\proiecteVS\SolutionCodeCraftersByBT\bin\Debug\net6.0\SolutionCodeCraftersByBT.dll
+B:\proiecteVS\SolutionCodeCraftersByBT\bin\Debug\net6.0\SolutionCodeCraftersByBT.pdb
+B:\proiecteVS\SolutionCodeCraftersByBT\obj\Debug\net6.0\SolutionCodeCraftersByBT.csproj.AssemblyReference.cache
+B:\proiecteVS\SolutionCodeCraftersByBT\obj\Debug\net6.0\SolutionCodeCraftersByBT.GeneratedMSBuildEditorConfig.editorconfig
+B:\proiecteVS\SolutionCodeCraftersByBT\obj\Debug\net6.0\SolutionCodeCraftersByBT.AssemblyInfoInputs.cache
+B:\proiecteVS\SolutionCodeCraftersByBT\obj\Debug\net6.0\SolutionCodeCraftersByBT.AssemblyInfo.cs
+B:\proiecteVS\SolutionCodeCraftersByBT\obj\Debug\net6.0\SolutionCodeCraftersByBT.csproj.CoreCompileInputs.cache
+B:\proiecteVS\SolutionCodeCraftersByBT\obj\Debug\net6.0\SolutionCodeCraftersByBT.dll
+B:\proiecteVS\SolutionCodeCraftersByBT\obj\Debug\net6.0\refint\SolutionCodeCraftersByBT.dll
+B:\proiecteVS\SolutionCodeCraftersByBT\obj\Debug\net6.0\SolutionCodeCraftersByBT.pdb
+B:\proiecteVS\SolutionCodeCraftersByBT\obj\Debug\net6.0\SolutionCodeCraftersByBT.genruntimeconfig.cache
+B:\proiecteVS\SolutionCodeCraftersByBT\obj\Debug\net6.0\ref\SolutionCodeCraftersByBT.dll
